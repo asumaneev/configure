@@ -1,0 +1,2 @@
+# configure
+Configures Linux machine
